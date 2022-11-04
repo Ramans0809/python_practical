@@ -1,7 +1,7 @@
 from math import sqrt
 
 # Number to be checked for prime
-n = 9
+n=int(sys.argv[1])
 
 flag = 0
 
