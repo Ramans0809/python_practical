@@ -1,5 +1,5 @@
 from math import sqrt
-
+import sys
 # Number to be checked for prime
 n=int(sys.argv[1])
 
